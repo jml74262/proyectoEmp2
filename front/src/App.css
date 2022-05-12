@@ -1,0 +1,47 @@
+
+.edit{
+  margin-left: -350px;
+  margin-right: -350px;
+  padding-block-end: 40px;
+}
+.App {
+
+  
+  
+  min-height: 100vh;
+  display: flex;
+  
+}
+
+.fw-bold{
+font-size:xx-large;
+}
+.Mzapato{
+ padding-top: 2%;
+ margin-left: 200px;
+}
+
+.Czapato{
+  padding-top: 2%;
+  font-size:calc(8px + 1.5vmin);
+ margin-left: 325px;
+ justify-items: center;
+
+ background-color: rgb(250, 250, 250);
+ margin-top: 30px;
+ padding-left: 30px;
+ padding-right: 30px;
+ margin-block-end: 100px;
+
+}
+.lt{
+  background-color: #f9faf75d ;
+  color: rgb(247, 247, 243);
+}
+.color{
+  color: rgb(14, 14, 14);
+}
+
+
+
+
